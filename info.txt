@@ -1,1 +1,4 @@
 # INFO FILE
+
+# Initialize app
+npx create-react-app ./
